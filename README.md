@@ -1,11 +1,8 @@
-# AI Job Agent (LangGraph Edition) · Vibe Coding in Action
+# AI Job Agent · Vibe Coding in Action
 
 Why This Project Exists
 
-LinkedIn Job Alerts are almost useful, but most are noisy:
--Too many senior or irrelevant positions
--Low signal-to-noise ratio
--No real sense of how well a job matches my actual experience
+I noticed that LinkedIn Job Alerts are often noisy: lots of irrelevant senior roles, vague matches, and no clear sense of how well a job fits my real experience. That’s where this project started — as a personal filter for job alerts.
 
 This project started as a personal tool to **filter LinkedIn Job Alerts**, extract the **essence of each JD**, and show **how well each role matches my real experience**. The output is a short, high‑signal digest you actually want to read.
 
