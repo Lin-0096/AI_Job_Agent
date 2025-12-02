@@ -120,5 +120,3 @@ python -m src.main
   - Try alternative models.
   - Change filtering rules.
   - Integrate with other notification channels.
-
-If LinkedIn Job Alerts feel like “almost the right tool” but not quite, this agent turns them into something sharper, more personal, and more actionable — while showcasing what AI‑assisted **vibe coding** can look like on a real, everyday workflow.
