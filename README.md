@@ -45,7 +45,7 @@ The result: LinkedIn alerts become a **curated, AI‑filtered shortlist** instea
 - Dry-run mode for testing without API costs
 
 ## Sample Output  
-![Match Insight](docs/assets/match_insight_redacted.png)
+![Match Insight](docs/assets/match_insight_redacted.jpg)
 
 ---
 
