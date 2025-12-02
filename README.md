@@ -2,7 +2,7 @@
 
 Why This Project Exists
 
-LinkedIn Job Alerts are almost useful — they surface many roles, but most are noisy:
+LinkedIn Job Alerts are almost useful, but most are noisy:
 -Too many senior or irrelevant positions
 -Low signal-to-noise ratio
 -No real sense of how well a job matches my actual experience
