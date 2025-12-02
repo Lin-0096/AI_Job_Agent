@@ -1,0 +1,64 @@
+# CV Template
+# Replace this content with your actual CV in plain text format
+# This file will be used by the LLM to match jobs against your skills
+
+## Contact Information
+Name: Your Name
+Email: your.email@example.com
+Phone: +358-XXX-XXXX
+Location: Helsinki, Finland
+
+## Professional Summary
+[Brief summary of your professional background, 2-3 sentences]
+
+## Skills
+- Programming Languages: Python, JavaScript, Java, etc.
+- Frameworks: Django, React, Spring Boot, etc.
+- Databases: PostgreSQL, MongoDB, Redis, etc.
+- Cloud & DevOps: AWS, Docker, Kubernetes, CI/CD
+- Other: Git, Agile, Machine Learning, etc.
+
+## Work Experience
+
+### Software Engineer | Company Name | 2020 - Present
+- Developed and maintained web applications using Python and Django
+- Implemented RESTful APIs serving 100K+ daily requests
+- Collaborated with cross-functional teams using Agile methodology
+- Technologies: Python, Django, PostgreSQL, Docker, AWS
+
+### Junior Developer | Previous Company | 2018 - 2020
+- Built frontend components using React and TypeScript
+- Wrote unit tests achieving 85% code coverage
+- Participated in code reviews and sprint planning
+- Technologies: JavaScript, React, Node.js, MongoDB
+
+## Education
+
+### Bachelor of Science in Computer Science
+University Name | 2014 - 2018
+- Relevant coursework: Algorithms, Data Structures, Machine Learning
+- GPA: 3.8/4.0
+
+## Projects
+
+### AI Job Agent (Personal Project)
+- Built an automated job matching system using LangGraph and LLM
+- Integrated email parsing, job matching, and WhatsApp notifications
+- Technologies: Python, LangGraph, OpenAI API, Twilio
+
+## Certifications
+- AWS Certified Developer - Associate
+- Python Professional Certificate
+
+## Languages
+- English: Fluent
+- Finnish: Basic
+- [Your native language]: Native
+
+---
+INSTRUCTIONS FOR USE:
+1. Copy this template to `data/cv.txt`
+2. Replace all placeholder content with your real information
+3. Keep the format simple and clear (plain text works best for LLM)
+4. Focus on skills, technologies, and achievements relevant to jobs you're seeking
+5. Remember: cv.txt is in .gitignore for privacy - never commit it to Git

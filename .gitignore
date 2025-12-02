@@ -1,0 +1,83 @@
+# Environment variables (IMPORTANT: Never commit secrets!)
+.env
+.env.local
+.env.*.local
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific - Sensitive data
+data/cv.txt
+data/cv.pdf
+data/CV.*
+data/*CV.*
+# data/history.json  # Tracked by git - GitHub Actions will auto-commit updates
+data/emails/
+
+# CV extraction files (temporary, contain sensitive data)
+cv_text.txt
+cv_base64.txt
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test files and samples
+sample_email.html
+test_*.py
+save_*.py
+debug_*.py
+
+# Development documents (internal use only)
+DEVELOPMENT_PRINCIPLES.md
+DEVELOPMENT_PRINCIPLES_zh.md
+IMPLEMENTATION_PLAN.md
+IMPLEMENTATION_PLAN_zh.md
+ai_job_agent_langgraph_spec.md
+
+# Backup files
+*.bak
