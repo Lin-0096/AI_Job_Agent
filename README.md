@@ -44,8 +44,8 @@ The result: LinkedIn alerts become a **curated, AI‑filtered shortlist** instea
 - LangGraph workflow orchestration
 - Dry-run mode for testing without API costs
 
-![Redacted AI insight card showing match, fit, gaps, and CV suggestions](docs/assets/match_insight_redacted.png)
-<sub>Example notification card (personal identifiers redacted)</sub>
+## Sample Output  
+![Match Insight](docs/assets/match_insight_redacted.png)
 
 ---
 
